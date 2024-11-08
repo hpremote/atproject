@@ -1,0 +1,15 @@
+train: /Users/vishvaraj/projects/img-obj-detection/new3/images
+val: /Users/vishvaraj/projects/img-obj-detection/new3/val/images
+annotations: /Users/vishvaraj/projects/img-obj-detection/new3/labels
+
+# number of classes
+nc: 27
+
+# class names
+names: [ '1800 TEQUILA', 'BUDWEISER', 'CAPT MORGAN WHITE', 'CARLSBERG', 'CIROC', 'CORONA', 'DON JULIO', 'GORDONS', 
+'GUINNESS', 'HENDRICKS', 'KETEL ONE', 'SMIRNOFF RED', 'JAGERMEISTER', 'JOHNNIE WALKER BLACK', 'bira morreti', 'blanc', 
+'FERRARI', 'HARDY', 'TAITTINGER', 'CARBON', 'KEIGETSU', 'LOUIS ROEDERER', 'GAJA', 'BROOKLYN LAGER', 'TSAHI', 'SOMERSBY', 'BELUGA',
+]
+
+# specify paths to annotations
+# annotations: /path/to/your/annotations

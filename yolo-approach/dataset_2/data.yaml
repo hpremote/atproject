@@ -1,0 +1,11 @@
+train: /Users/vishvaraj/projects/img-obj-detection/only7b/images
+val: /Users/vishvaraj/projects/img-obj-detection/only7b/images
+annotations: /Users/vishvaraj/projects/img-obj-detection/only7b/labels
+
+# number of classes
+nc: 62
+
+# class names
+names: /Users/vishvaraj/projects/img-obj-detection/only7b/classes.txt
+# specify paths to annotations
+# annotations: /path/to/your/annotations

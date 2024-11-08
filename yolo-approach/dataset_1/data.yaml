@@ -1,0 +1,22 @@
+train: /Users/vishvaraj/projects/img-obj-detection/new3/images
+val: /Users/vishvaraj/projects/img-obj-detection/new3/val/images
+annotations: /Users/vishvaraj/projects/img-obj-detection/new3/labels
+
+# number of classes
+nc: 78
+
+# class names
+names: [
+  '1800 TEQUILA', 'ABSOLUT', 'AMSTEL', 'ASAHI SUPER DRY', 'AVION', 'BACCARDI', 'BELUGA', 'BELVEDERE', 'BLUE MOON', 'BOMBAY SAPPHIRE', 
+  'BREWDOG', 'BROOKLYN LAGER', 'BUDWEISER', 'CAPT MORGAN WHITE', 'CARBON', 'CARLSBERG', 'CASA KOMOS TEQUILA', 'CHIVAS', 'CIROC', 
+  'COINTREAU', 'CORONA', 'COURVOISIER', 'Car', 'DEWARS', 'DON JULIO', 'ELITE BY STOLI', 'ESTRELLA DAMM', 'ESTRELLA GALICIA', 'FERRARI', 
+  'GAJA', 'GLENFIDDICH', 'GORDONS', 'GRANTS FAMILY RESERVE', 'GREY GOOSE', 'GUINNESS', 'HARDY', 'HEINEKEN', 'HENDRICKS', 'HENNESSY', 
+  'HOEGAARDEN', 'JACK DANIELS', 'JAGERMEISTER', 'JIM BEAM', 'JOHNNIE WALKER BLACK', 'JOHNNIE WALKER BLUE', 'JOSE CUERVO TEQUILA', 
+  'JW GOLD RESERVE', 'K1664 BLANC', 'KEIGETSU', 'KETEL ONE', 'KIRIN', 'LOUIS ROEDERER', 'MAGNERS IRISH CIDER', 'MAKERS MARK', 'MALFY', 
+  'MONKEY 47', 'MONKEY SHOULDER', 'OLMECA', 'PERONI NASTRO AZZURRO', 'REMY MARTIN', 'ROKU', 'RON SANTIAGO', 'SMIRNOFF RED', 'SOL', 
+  'SOMERSBY', 'STELLA ARTOIS', 'STOLI PREMIUM', 'STRONGBOW', 'TAITTINGER', 'TANQUERAY 10', 'THATCHERS', 'THE BOTANIST', 'TIGER', 'TSAHI', 
+  'The Macallan', "Tito's Vodka", 'bira morreti', 'blanc'
+]
+
+# specify paths to annotations
+# annotations: /path/to/your/annotations

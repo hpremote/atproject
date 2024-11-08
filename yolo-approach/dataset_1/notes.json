@@ -1,0 +1,321 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "1800 TEQUILA"
+    },
+    {
+      "id": 1,
+      "name": "ABSOLUT"
+    },
+    {
+      "id": 2,
+      "name": "AMSTEL"
+    },
+    {
+      "id": 3,
+      "name": "ASAHI SUPER DRY"
+    },
+    {
+      "id": 4,
+      "name": "AVION"
+    },
+    {
+      "id": 5,
+      "name": "BACCARDI"
+    },
+    {
+      "id": 6,
+      "name": "BELUGA"
+    },
+    {
+      "id": 7,
+      "name": "BELVEDERE"
+    },
+    {
+      "id": 8,
+      "name": "BLUE MOON"
+    },
+    {
+      "id": 9,
+      "name": "BOMBAY SAPPHIRE"
+    },
+    {
+      "id": 10,
+      "name": "BREWDOG"
+    },
+    {
+      "id": 11,
+      "name": "BROOKLYN LAGER"
+    },
+    {
+      "id": 12,
+      "name": "BUDWEISER"
+    },
+    {
+      "id": 13,
+      "name": "CAPT MORGAN WHITE"
+    },
+    {
+      "id": 14,
+      "name": "CARBON"
+    },
+    {
+      "id": 15,
+      "name": "CARLSBERG"
+    },
+    {
+      "id": 16,
+      "name": "CASA KOMOS TEQUILA"
+    },
+    {
+      "id": 17,
+      "name": "CHIVAS"
+    },
+    {
+      "id": 18,
+      "name": "CIROC"
+    },
+    {
+      "id": 19,
+      "name": "COINTREAU"
+    },
+    {
+      "id": 20,
+      "name": "CORONA"
+    },
+    {
+      "id": 21,
+      "name": "COURVOISIER"
+    },
+    {
+      "id": 22,
+      "name": "Car"
+    },
+    {
+      "id": 23,
+      "name": "DEWARS"
+    },
+    {
+      "id": 24,
+      "name": "DON JULIO"
+    },
+    {
+      "id": 25,
+      "name": "ELITE BY STOLI"
+    },
+    {
+      "id": 26,
+      "name": "ESTRELLA DAMM"
+    },
+    {
+      "id": 27,
+      "name": "ESTRELLA GALICIA"
+    },
+    {
+      "id": 28,
+      "name": "FERRARI"
+    },
+    {
+      "id": 29,
+      "name": "GAJA"
+    },
+    {
+      "id": 30,
+      "name": "GLENFIDDICH"
+    },
+    {
+      "id": 31,
+      "name": "GORDONS"
+    },
+    {
+      "id": 32,
+      "name": "GRANTS FAMILY RESERVE"
+    },
+    {
+      "id": 33,
+      "name": "GREY GOOSE"
+    },
+    {
+      "id": 34,
+      "name": "GUINNESS"
+    },
+    {
+      "id": 35,
+      "name": "HARDY"
+    },
+    {
+      "id": 36,
+      "name": "HEINEKEN"
+    },
+    {
+      "id": 37,
+      "name": "HENDRICKS"
+    },
+    {
+      "id": 38,
+      "name": "HENNESSY"
+    },
+    {
+      "id": 39,
+      "name": "HOEGAARDEN"
+    },
+    {
+      "id": 40,
+      "name": "JACK DANIELS"
+    },
+    {
+      "id": 41,
+      "name": "JAGERMEISTER"
+    },
+    {
+      "id": 42,
+      "name": "JIM BEAM"
+    },
+    {
+      "id": 43,
+      "name": "JOHNNIE WALKER BLACK"
+    },
+    {
+      "id": 44,
+      "name": "JOHNNIE WALKER BLUE"
+    },
+    {
+      "id": 45,
+      "name": "JOSE CUERVO TEQUILA"
+    },
+    {
+      "id": 46,
+      "name": "JW GOLD RESERVE"
+    },
+    {
+      "id": 47,
+      "name": "K1664 BLANC"
+    },
+    {
+      "id": 48,
+      "name": "KEIGETSU"
+    },
+    {
+      "id": 49,
+      "name": "KETEL ONE"
+    },
+    {
+      "id": 50,
+      "name": "KIRIN"
+    },
+    {
+      "id": 51,
+      "name": "LOUIS ROEDERER"
+    },
+    {
+      "id": 52,
+      "name": "MAGNERS IRISH CIDER"
+    },
+    {
+      "id": 53,
+      "name": "MAKERS MARK"
+    },
+    {
+      "id": 54,
+      "name": "MALFY"
+    },
+    {
+      "id": 55,
+      "name": "MONKEY 47"
+    },
+    {
+      "id": 56,
+      "name": "MONKEY SHOULDER"
+    },
+    {
+      "id": 57,
+      "name": "OLMECA"
+    },
+    {
+      "id": 58,
+      "name": "PERONI NASTRO AZZURRO"
+    },
+    {
+      "id": 59,
+      "name": "REMY MARTIN"
+    },
+    {
+      "id": 60,
+      "name": "ROKU"
+    },
+    {
+      "id": 61,
+      "name": "RON SANTIAGO"
+    },
+    {
+      "id": 62,
+      "name": "SMIRNOFF RED"
+    },
+    {
+      "id": 63,
+      "name": "SOL"
+    },
+    {
+      "id": 64,
+      "name": "SOMERSBY"
+    },
+    {
+      "id": 65,
+      "name": "STELLA ARTOIS"
+    },
+    {
+      "id": 66,
+      "name": "STOLI PREMIUM"
+    },
+    {
+      "id": 67,
+      "name": "STRONGBOW"
+    },
+    {
+      "id": 68,
+      "name": "TAITTINGER"
+    },
+    {
+      "id": 69,
+      "name": "TANQUERAY 10"
+    },
+    {
+      "id": 70,
+      "name": "THATCHERS"
+    },
+    {
+      "id": 71,
+      "name": "THE BOTANIST"
+    },
+    {
+      "id": 72,
+      "name": "TIGER"
+    },
+    {
+      "id": 73,
+      "name": "TSAHI"
+    },
+    {
+      "id": 74,
+      "name": "The Macallan"
+    },
+    {
+      "id": 75,
+      "name": "Tito's Vodka"
+    },
+    {
+      "id": 76,
+      "name": "bira morreti"
+    },
+    {
+      "id": 77,
+      "name": "blanc"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

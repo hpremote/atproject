@@ -1,0 +1,89 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "1800 TEQUILA"
+    },
+    {
+      "id": 1,
+      "name": "BELUGA"
+    },
+    {
+      "id": 2,
+      "name": "BUDWEISER"
+    },
+    {
+      "id": 3,
+      "name": "CAPT MORGAN WHITE"
+    },
+    {
+      "id": 4,
+      "name": "CARLSBERG"
+    },
+    {
+      "id": 5,
+      "name": "CIROC"
+    },
+    {
+      "id": 6,
+      "name": "CORONA"
+    },
+    {
+      "id": 7,
+      "name": "DON JULIO"
+    },
+    {
+      "id": 8,
+      "name": "ESTRELLA GALICIA"
+    },
+    {
+      "id": 9,
+      "name": "GUINNESS"
+    },
+    {
+      "id": 10,
+      "name": "HENDRICKS"
+    },
+    {
+      "id": 11,
+      "name": "JAGERMEISTER"
+    },
+    {
+      "id": 12,
+      "name": "JIM BEAM"
+    },
+    {
+      "id": 13,
+      "name": "JOHNNIE WALKER BLACK"
+    },
+    {
+      "id": 14,
+      "name": "KETEL ONE"
+    },
+    {
+      "id": 15,
+      "name": "MAKERS MARK"
+    },
+    {
+      "id": 16,
+      "name": "PERONI NASTRO AZZURRO"
+    },
+    {
+      "id": 17,
+      "name": "SMIRNOFF RED"
+    },
+    {
+      "id": 18,
+      "name": "SOMERSBY"
+    },
+    {
+      "id": 19,
+      "name": "STELLA ARTOIS"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
